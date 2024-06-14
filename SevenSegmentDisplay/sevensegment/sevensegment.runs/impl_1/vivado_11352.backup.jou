@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Wed Apr 17 16:44:44 2024
+# Process ID: 11352
+# Current directory: C:/Users/user/sevensegment/sevensegment.runs/impl_1
+# Command line: vivado.exe -log sevensegment.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source sevensegment.tcl -notrace
+# Log file: C:/Users/user/sevensegment/sevensegment.runs/impl_1/sevensegment.vdi
+# Journal file: C:/Users/user/sevensegment/sevensegment.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source sevensegment.tcl -notrace
