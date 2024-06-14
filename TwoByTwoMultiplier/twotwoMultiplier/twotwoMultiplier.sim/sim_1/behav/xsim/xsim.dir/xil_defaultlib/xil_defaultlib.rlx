@@ -1,0 +1,8 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/user/twotwoMultiplier/twotwoMultiplier.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/Users/user/twotwoMultiplier/twotwoMultiplier.srcs/sim_1/new/test_twotwomultiplier.v,1710922713,verilog,,,,test_twotwomultiplier,,,,,,,,
+C:/Users/user/twotwoMultiplier/twotwoMultiplier.srcs/sources_1/new/halfadder.v,1710919726,verilog,,C:/Users/user/twotwoMultiplier/twotwoMultiplier.srcs/sources_1/new/twotwomultiplier.v,,halfadder,,,,,,,,
+C:/Users/user/twotwoMultiplier/twotwoMultiplier.srcs/sources_1/new/twotwomultiplier.v,1710922034,verilog,,C:/Users/user/twotwoMultiplier/twotwoMultiplier.srcs/sim_1/new/test_twotwomultiplier.v,,twotwomultiplier,,,,,,,,
