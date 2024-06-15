@@ -1,0 +1,9 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/user/fourfourmul/fourfourmul.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/Users/user/fourfourmul/fourfourmul.srcs/sim_1/new/testfourfourmultiplier.v,1711528310,verilog,,,,testfourfourmultiplier,,,,,,,,
+C:/Users/user/fourfourmul/fourfourmul.srcs/sources_1/new/bitsadder.v,1711523605,verilog,,C:/Users/user/fourfourmul/fourfourmul.srcs/sources_1/new/fourfourmultiplier.v,,bitsadder,,,,,,,,
+C:/Users/user/fourfourmul/fourfourmul.srcs/sources_1/new/fourfourmultiplier.v,1711527945,verilog,,C:/Users/user/fourfourmul/fourfourmul.srcs/sources_1/new/fulladder.v,,fourfourmultiplier,,,,,,,,
+C:/Users/user/fourfourmul/fourfourmul.srcs/sources_1/new/fulladder.v,1711522675,verilog,,C:/Users/user/fourfourmul/fourfourmul.srcs/sim_1/new/testfourfourmultiplier.v,,fulladder,,,,,,,,

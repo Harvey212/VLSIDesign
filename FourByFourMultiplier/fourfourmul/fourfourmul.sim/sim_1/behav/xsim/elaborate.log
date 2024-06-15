@@ -1,0 +1,16 @@
+Vivado Simulator 2018.2
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2018.2/bin/unwrapped/win64.o/xelab.exe -wto 7a8ed2c1c8e045208ed7f76470978308 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot testfourfourmultiplier_behav xil_defaultlib.testfourfourmultiplier xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-277] actual bit length 32 differs from formal bit length 1 [C:/Users/user/fourfourmul/fourfourmul.srcs/sources_1/new/fourfourmultiplier.v:42]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.fulladder
+Compiling module xil_defaultlib.bitsadder
+Compiling module xil_defaultlib.fourfourmultiplier
+Compiling module xil_defaultlib.testfourfourmultiplier
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot testfourfourmultiplier_behav
