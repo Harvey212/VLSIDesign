@@ -1,8 +1,10 @@
 # VLSIDesign
 
-## Project1:
+## Project1: 4-bit Ripple Adder in Hspice
+Folder name: HspiceRippleAdder
 
-## Project2:
+## Project2: Post Simulation of the Layout
+Folder name: LayoutPostSimulation
 
 ## Project3:
 
