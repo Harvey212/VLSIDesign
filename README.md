@@ -1,4 +1,4 @@
-# DigitalDesign
+# VLSIDesign
 
 ## Project1:
 
