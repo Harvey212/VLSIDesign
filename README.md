@@ -7,31 +7,33 @@ Folder name: HspiceRippleAdder
 Folder name: LayoutPostSimulation
 
 ## Project3: Stack implementation in Verilog
-Folder name:
+Folder name: Stack
 
 ## Project4:
-Folder name:
+Folder name: ALU1
 
 ## Project5:
-Folder name:
+Folder name: ALU2
 
 ## Project6:
-Folder name:
+Folder name: FiniteStateMachine
 
 ## Project7:
-Folder name:
+Folder name: FourByFourMultiplier
 
 ## Project8:
-Folder name:
+Folder name: MusicPlayer
 
 ## Project9:
-Folder name:
+Folder name: NinetynineUpcounter
 
 ## Project10:
-Folder name:
+Folder name: SevenSegmentDisplay
 
 ## Project11:
-Folder name:
+Folder name: TwoByTwoMultiplier
+
+
 
 
 
